@@ -1,0 +1,3 @@
+domain: k8s.wantedly.com
+repo: github.com/wantedly/request-routing-controller
+version: "2"
